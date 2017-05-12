@@ -135,4 +135,8 @@ recent years
   This could be strategically positioned behind people, and if we
   have someone like Lee, we can ask them to take pictures of
   individuals against it too. Additional sponsor benefit and
-  visibility for sponsors.
+  visibility for sponsors. [suggestion from Sawyer]
+* Wifi is an issue every year. Would it be workable to bring our own
+  wifi hub each year, and hook it into the local network. That way at
+  least we'd all stay connected, even if someone does occasionally need
+  to get the internet sorted. [suggestion from Olaf]
