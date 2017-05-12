@@ -123,6 +123,15 @@ recent years
 
 ### Picking the dates
 
+* Generally we try to land it from mid-March to mid-May (doesn't clash
+  with Perl conference season & avoids the long school holidays).
+* Once the core team are picked, find out which weekends in the above
+  range they definitely can't do
+* Pick the weekend or weekends that maximise core attendance. For the
+  past 2 years this immediately identified a best weekend.
+* Obviously need to pick a weekend when the venue is also available.
+  Check whether venue costs change in certain weeks.
+
 ### Raising sponsorship
 
 ## Running the Summit
