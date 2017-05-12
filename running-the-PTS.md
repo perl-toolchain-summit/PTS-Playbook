@@ -128,3 +128,11 @@ recent years
 ## Running the Summit
 
 ## After the Summit
+
+## Ideas
+
+* Have a "sponsor board" which has names and logos of all sponsors.
+  This could be strategically positioned behind people, and if we
+  have someone like Lee, we can ask them to take pictures of
+  individuals against it too. Additional sponsor benefit and
+  visibility for sponsors.
