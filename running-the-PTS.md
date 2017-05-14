@@ -2,10 +2,12 @@
 
 These are my notes on how I think we do and should run the toolchain
 summit. I'd like to have a clearly and openly documented model for the
-event and how we run it. This is (a) to ensure it's the best/right
-event for the toolchain community, (b) transparency on who gets to
-attend and why, and (c) to help people who might be (considering)
-running future summits.
+event and how we run it. Why? (a) to ensure it's the best/right event
+for the toolchain community, (b) transparency on who gets to attend and
+why, and (c) as a play book to help people who might be (considering)
+running future summit, (d) so potential sponsors can see the details of
+what they're paying for, if they want to know more than the prospectus
+tells them.
 
 I plan to have a session at the Lyon 2017 summit to go through this and
 get feedback, but will also solicit feedback from further beyond.
@@ -18,7 +20,10 @@ An annual summit where we assemble as many of the key developers for the
 Some issues need multiple people to work together, and gnarly issues
 take time to work through. Given most of this is volunteer effort,
 giving people 4 days together gives an opportunity to push through
-things that might not otherwise happen.
+things that might not otherwise happen, or would perhaps take a long
+time ("a face-to-face conversation is worth 1000 emails", or as nine put
+it "high-speed discussions got us to a point that would have taken us a
+year via email"). 4 days of concentrated time with the right neighbours.
 
 Having people together means it's also an opportunity to have
 face-to-face discussions to plan things that might be done after
@@ -42,17 +47,38 @@ it right, those things are all aligned.
 * Attendees are generally all working in close proximity, so you need to
   get on with others. Regardless of your contributions, if you're a jerk
   you won't get invited, and if we discover you're a jerk at a summit,
-  you're not likely to get invited back.
+  you're not likely to get invited back. If you harass people, the end
+  result could be we eject you (never happened).
 
 ## Organising the Summit
 
 These are all the things you need to get to the summit itself:
 
+* Establish the organising team
 * Pick the location
 * Decide who's coming
 * Select the venue
 * Pick the dates
 * Raise sponsorship
+
+### Organising team
+
+There are four key roles. We now think these are best done by
+separate people:
+
+* The host: they live locally, organise venue (important to build
+  relationship), group meal etc. Speak the lingo, know local
+  restaurants, etc
+* Attendee wrangler (establishing the attendee list and ensuring
+  they come).
+* Sponsorship (prospectus, finding sponsors, delivering benefits)
+* Money (invoicing, getting money from sponsors, reimbursing
+  attendees, etc)
+
+If you're one of these people, accept that you'll get less hacking done
+at the summit. Hofstadter's law applies to this.
+
+One person is chief organiser. Good if host, but doesn't have to be.
 
 ### Picking the location
 
@@ -60,9 +86,11 @@ These are all the things you need to get to the summit itself:
   from Europe.
 * Pick a city/town that's relatively easy to get to from Europe, USA,
   Canada, Brazil, and Japan.
-* Easiest if it's the hometown for one of the organisers, as it
-  makes life easier if someone can go talk to the venue, look at the
-  rooms, etc
+* Easiest if it's the hometown for one of the organisers, as it makes
+  life easier if someone can go talk to the venue, look at the rooms,
+  etc. Having a real person instead of an email as a contact usually
+  makes people more comfortable too.
+* Don't pick an "expensive city".
 
 ### Deciding who's coming
 
@@ -85,8 +113,22 @@ Who are the core team?
 
 People will come and go. Barbie was previously lead on CPAN Testers, but
 now it's Doug Bell. MetaCPAN has now been deemed critical enough for
-Olaf Alders to join the core in 2017.
+Olaf Alders to join the core in 2017. The core team for 2017 were:
+* Andreas
+* Leon T
+* Doug Bell
+* BinGOs
+* Olaf Alders
+* Paul Johnson
+* Tux
+* Miyagawa (was going to attend, but last minute couldn't)
+* Chad Granum (was going to attend, but then couldn't)
+* David Golden (couldn't attend)
+* Rik Signes (couldn't attend)
 
+That's probably the worst attendance record for the core team for a few
+years at least. Picking the date sooner might have meant more people
+could attend, but for 2 of those people probably not. Real life happens.
 Are there other components, tools, or criteria we should use for core?
 
 How are attendees nominated? There have been various approaches in
@@ -100,26 +142,47 @@ recent years
   few people.
 * For Lyon I asked the core people to nominate up to 5 people each. We
   picked the top ~10 people, and then asked them to nominate.
-* One idea for next year: people get 10 points. You can put all on
+* Proposal for next year: people get 10 points. You can put all on
   one person ("I really want them to be there"), or spread across
   several people.
-* Let people ask to be considered?
+* Increasing the bus factor, mentoring new people.
+* Let people ask to be considered? "here's what I'd work on".
+  fixed number of spots / send a newbie. Resolving potential
+  attendees quickly.
+
+Thoughts:
+
+* Attending the summit is a good way to draw in people who are starting
+  to work on tools type stuff. How we we ensure that we're pulling in
+  new blood?
+* There could also be tools that we'd like people to develop / start
+  using, so pulling in those people is good.
+* Also Perl 6: ensuring the right perl 6 toolchain people are here
+* This task is never-ending, right up to the event.
+* Reality: there may be people you don't want there. "if he
+  comes, I won't"
 
 ### Selecting the venue
 
 * The last 2 years we've had the hacking space be the same place where
-  we're staying. This minimises travel time each day.
+  we're staying. This minimises travel time each day. I think we can now
+  establish this as "how we do it".
 * Single rooms for everyone. It means we need to raise more sponsorship,
   but given the intense time spent together, it's good to have your own
-  space at night.
+  space at night. 2016 was the first year we did this, and got good
+  feedback on it. Also now fixed, I think.
 * Two meeting rooms. Generally better if everyone can fit into one of
   them, so the other can be used for discussions without disturbing
-  everyone else.
+  everyone else. Larger break-outs have been a bit trickier to handle
+  this year.
 * Good if there are some kind of breakout spaces. The bar works fine
   most of the time in Lyon, and similarly the bar worked well at Rugby.
 * Decent (enough) selection of restaurants nearby, catering for
   vegetarians & vegans.
-* Wifi that can handle 35 people.
+* Wifi that can handle 35 people. (laptops & phones) (c.f. Berlin:
+  separate venue close to hotel, with solid wifi).
+* Airport hotel?
+* too many rooms would fracture the group.
 
 ### Picking the dates
 
@@ -131,21 +194,97 @@ recent years
   past 2 years this immediately identified a best weekend.
 * Obviously need to pick a weekend when the venue is also available.
   Check whether venue costs change in certain weeks.
+* I think everyone's happy with the 4-day weekend. Longer would be
+  hard to justify (to employers & families). I think we can consider
+  this fixed.
 
 ### Raising sponsorship
 
+* Create a sponsorship prospectus with clear sponsorship levels &
+  benefits. Also needs to concisely present what it is (and isn't), and
+  the benefits (of the event).
+* We have an established pool of sponsors, a different subset of which
+  chooses to sponsor each year
+* Need to keep working on adding fresh sponsor potential every year
+* Sponsors (seem to) like the branded blog post.
+* Get people to bring t-shirts with their employer's logo on, to get it
+  in pictures for tweets. Sponsors like tweets thanking them, and like
+  to get their names / logos in photos as well.
+* The mentions in attendees' blog posts are appreciated too.
+  Hofstadter’s Law applies to this.
+
 ## Running the Summit
+
+* Have a stand-up every day at the same time. Would people prefer
+  something like 10am rather than 9am? (my goal with 9am was to get it
+  done before everyone starts). Have them be concise: 30 people speaking
+  for 1 minute eats up half an hour.
+* Have a fixed time when discussions will happen (eg 1pm). Get people to
+  pre-announce. Have slots, fill on board.
+* If the budget allows, have a sponsored meal on the Thursday.
+* Have a Wendy: healthy food available nearby, so people can graze &
+  lunch without breaking away
+* People record on the wiki what they do/achieve as they go along.
+* Need a list of sponsors, which you work through, tweeting to thank,
+  mention etc
+* Need printed checklist of attendees
+* Having an attendee who can both hack and take photos has been very
+  helpful (at least to the organisers).
+* Create a markdown file that lists the sponsors, to make it easy for
+  people to acknowledge them in blog posts
+* Organisers solicit feedback
+* Have a retrospective at the end, every time?
+  * What was a pain?
+  * What was missing?
+  * Who else should have been here?
+  * How can we make this better?
+* Have a knowledge-sharing mechanism
+  * pick one day for this or, last 1 hour of every day
 
 ## After the Summit
 
-## Ideas
+* Attendees blog soon after. Remember to thank sponsors. Have a snippet
+  to copy/paste with all sponsors and links.
+* Organisers do an official blog posts with pictures. Mention all
+  attendees, and some flavour of what they did.
+* Follow up with every sponsor, thanking them for support and asking how
+  it was for them.
+* Ensure everyone gets reimbursed
+* Work out how much money is left over to roll-over to next
+  year's summit
 
-* Have a "sponsor board" which has names and logos of all sponsors.
-  This could be strategically positioned behind people, and if we
-  have someone like Lee, we can ask them to take pictures of
-  individuals against it too. Additional sponsor benefit and
-  visibility for sponsors. [suggestion from Sawyer]
+## Schedule
+
+* Establish organiser and location
+* Late September / early October: clarify core team and email them to
+  establish viable weekends
+* Pick tentative weekend. Ensure it doesn't clash with other events
+* Mid-Late October: identify the second wave of attendees & invite them
+* Talk to potential venue(s) and see if potential weekends work
+* End October: fix the weekend
+* November: fix the venue, decide target number of attendees, and
+  estimate required funds
+* November: identify & invite third wave of attendees
+* November: update sponsorship prospectus and start contacting
+  established sponsors
+* December: announce
+* Iterate over sponsors & attendees
+
+## Ideas / Questions / Thougths
+
+* Have a "sponsor board" which has names and logos of all sponsors. This
+  could be strategically positioned behind people, and if we have
+  someone like Lee, we can ask them to take pictures of individuals
+  against it too. Additional sponsor benefit and visibility for
+  sponsors. [suggestion from Sawyer]
 * Wifi is an issue every year. Would it be workable to bring our own
   wifi hub each year, and hook it into the local network. That way at
   least we'd all stay connected, even if someone does occasionally need
   to get the internet sorted. [suggestion from Olaf]
+* Should we have an explicit code of conduct? We did for Berlin and
+  Lancaster. For Lyon 2014, the code of conduct was: "Be excellent to
+  each other. If anything is less than excellent, talk to the
+  organisers."
+* Have a single travel agent organising flights, to get a
+  discount? [Leo]
+* emailing list
