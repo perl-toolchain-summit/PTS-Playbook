@@ -78,7 +78,8 @@ separate people:
 If you're one of these people, accept that you'll get less hacking done
 at the summit. Hofstadter's law applies to this.
 
-One person is chief organiser. Good if host, but doesn't have to be.
+One person is the chief organiser. Good if it is the host, but it doesn't
+have to be.
 
 ### Picking the location
 
@@ -147,7 +148,7 @@ recent years
   several people.
 * Increasing the bus factor, mentoring new people.
 * Let people ask to be considered? "here's what I'd work on".
-  fixed number of spots / send a newbie. Resolving potential
+  fixed number of spots / c.f. send a newbie. Resolving potential
   attendees quickly.
 
 Thoughts:
@@ -239,7 +240,7 @@ Thoughts:
   * Who else should have been here?
   * How can we make this better?
 * Have a knowledge-sharing mechanism
-  * pick one day for this or, last 1 hour of every day
+  * pick one day for this or last 1 hour of every day
 
 ## After the Summit
 
@@ -253,6 +254,26 @@ Thoughts:
 * Work out how much money is left over to roll-over to next
   year's summit
 
+## The money role
+
+Have asked Laurent to dump his thoughts here. In the meantime, my
+perception of it
+
+* When a sponsor commits to supporting the summit, the sponsorship
+  organiser passes a contact to the money person.
+* Money person contacts them to see if they need an invoice raising, and
+  if so anything special they require.
+* Tell them the ways we can receive funds, and ask what theiris their
+  preference is.
+* Organise the funds transfer.
+* Keep track of all sponsors, e.g., in Ggoogle docs, with a status
+  against each one.
+* Periodically tickle sponsors who haven't yet paid.
+* Once they've paid, confirm back to them and thank them.
+* Update budget spreadsheet (in google docs)
+* Reimburse attendees
+
+
 ## Schedule
 
 * Establish organiser and location
@@ -264,7 +285,7 @@ Thoughts:
 * End October: fix the weekend
 * November: fix the venue, decide target number of attendees, and
   estimate required funds
-* November: identify & invite third wave of attendees
+* November: identify & invite the third wave of attendees
 * November: update sponsorship prospectus and start contacting
   established sponsors
 * December: announce
