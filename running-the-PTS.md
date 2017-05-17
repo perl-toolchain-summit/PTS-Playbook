@@ -35,8 +35,8 @@ it right, those things are all aligned.
 
 ## Principles
 
-* The scope is the tools that are used by people with Perl in
-  Production. More on the scope below.
+* The scope is the tools that people use with Perl in Production. More
+  on the scope below.
 * The people who attend are those who have been working on those tools
   for the last year or so.
 * They are generally all volunteers, so the only way we can afford to
@@ -44,9 +44,9 @@ it right, those things are all aligned.
 * Sponsors generally support the summit because they have Perl in
   Production, and they can see the summit is a key driving force behind
   the maintenance and evolution of the toolchain.
-* Attendees are generally all working in close proximity, so you need to
-  get on with others. Regardless of your contributions, if you're a jerk
-  you won't get invited, and if we discover you're a jerk at a summit,
+* Attendees are generally all working in proximity, so you need to get
+  on with others. Regardless of your contributions, if you're a jerk you
+  won't get invited, and if we discover you're a jerk at a summit,
   you're not likely to get invited back. If you harass people, the end
   result could be we eject you (never happened).
 
