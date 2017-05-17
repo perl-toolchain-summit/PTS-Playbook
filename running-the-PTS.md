@@ -60,6 +60,7 @@ These are all the things you need to get to the summit itself:
 * Select the venue
 * Pick the dates
 * Raise sponsorship
+* Web site
 
 ### Organising team
 
@@ -86,7 +87,8 @@ have to be.
 * So far it's always been in Europe, as 60-70% of the attendees are
   from Europe.
 * Pick a city/town that's relatively easy to get to from Europe, USA,
-  Canada, Brazil, and Japan.
+  Canada, Brazil, and Japan. i.e. in or near a "hub" city with a large
+  airport that has many direct international flights
 * Easiest if it's the hometown for one of the organisers, as it makes
   life easier if someone can go talk to the venue, look at the rooms,
   etc. Having a real person instead of an email as a contact usually
@@ -210,7 +212,8 @@ Thoughts:
 * Sponsors (seem to) like the branded blog post.
 * Get people to bring t-shirts with their employer's logo on, to get it
   in pictures for tweets. Sponsors like tweets thanking them, and like
-  to get their names / logos in photos as well.
+  to get their names / logos in photos as well. These are so cheap, so
+  we should be doing more of them, before, during, and after the summit.
 * The mentions in attendees' blog posts are appreciated too.
   Hofstadter’s Law applies to this.
 
