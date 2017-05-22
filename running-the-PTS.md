@@ -190,7 +190,18 @@ Thoughts:
 ### Picking the dates
 
 * Generally we try to land it from mid-March to mid-May (doesn't clash
-  with Perl conference season & avoids the long school holidays).
+  with Perl conference season & avoids the long school holidays). Here
+  are the dates for all events:
+  * Oslo 2008: Sat April 5th to Mon April 7th
+  * Birmingham 2009: 28th to 30th March
+  * Vienna 2010: April 10th to April 12th
+  * Amsterdam 2011: April 16th through 18th
+  * Paris 2012: March 30th through April 1st
+  * Lancaster 2013: April 12th through 14th
+  * Lyon 2014: March 13th through 16th
+  * Berlin 2015: April 16th through 19th
+  * Rugby 2016: April 21st through 24th
+  * Lyon 2017: May 11th through 14th
 * Once the core team are picked, find out which weekends in the above
   range they definitely can't do
 * Pick the weekend or weekends that maximise core attendance. For the
