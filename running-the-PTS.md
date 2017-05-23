@@ -207,7 +207,9 @@ Thoughts:
 * Pick the weekend or weekends that maximise core attendance. For the
   past 2 years this immediately identified a best weekend.
 * Obviously need to pick a weekend when the venue is also available.
-  Check whether venue costs change in certain weeks.
+  Check whether venue costs change significantly in certain weeks. (only
+  an issue if there's a massive price hike during a school holiday,
+  which does happen in Europe).
 * I think everyone's happy with the 4-day weekend. Longer would be
   hard to justify (to employers & families). I think we can consider
   this fixed.
@@ -234,8 +236,9 @@ Thoughts:
   something like 10am rather than 9am? (my goal with 9am was to get it
   done before everyone starts). Have them be concise: 30 people speaking
   for 1 minute eats up half an hour.
-* Have a fixed time when discussions will happen (eg 1pm). Get people to
-  pre-announce. Have slots, fill on board.
+* Have a fixed time when discussions will happen. Doing this around
+  mid-day will let people bring lunch. Get people to pre-announce. Have
+  slots, fill on board.
 * If the budget allows, have a sponsored meal on the Thursday.
 * Have a Wendy: healthy food available nearby, so people can graze &
   lunch without breaking away
@@ -253,7 +256,7 @@ Thoughts:
   * What was missing?
   * Who else should have been here?
   * How can we make this better?
-* Have a knowledge-sharing mechanism
+* Have a knowledge-sharing mechanism?
   * pick one day for this or last 1 hour of every day
 
 ## After the Summit
@@ -277,7 +280,7 @@ perception of it
   organiser passes a contact to the money person.
 * Money person contacts them to see if they need an invoice raising, and
   if so anything special they require.
-* Tell them the ways we can receive funds, and ask what theiris their
+* Tell them the ways we can receive funds, and ask what their
   preference is.
 * Organise the funds transfer.
 * Keep track of all sponsors, e.g., in Ggoogle docs, with a status
@@ -316,10 +319,9 @@ perception of it
   wifi hub each year, and hook it into the local network. That way at
   least we'd all stay connected, even if someone does occasionally need
   to get the internet sorted. [suggestion from Olaf]
-* Should we have an explicit code of conduct? We did for Berlin and
-  Lancaster. For Lyon 2014, the code of conduct was: "Be excellent to
-  each other. If anything is less than excellent, talk to the
-  organisers."
+* We should have an explicit code of conduct. For Lyon 2014, the code of
+  conduct was: "Be excellent to each other. If anything is less than
+  excellent, talk to the organisers."
 * Have a single travel agent organising flights, to get a
   discount? [Leo]
 * emailing list
