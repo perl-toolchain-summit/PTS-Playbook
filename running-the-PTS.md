@@ -72,9 +72,11 @@ separate people:
 * Sponsorship (prospectus, finding sponsors, delivering benefits)
 * Money (invoicing, getting money from sponsors, reimbursing
   attendees, etc)
-* If you're one of these people, accept that you'll get less hacking
+
+If you're one of these people, accept that you'll get less hacking
   done at the summit. Hofstadter's law applies to this.
-* One person is the chief organiser. Good if it is the host, but it
+
+One person is the chief organiser. Good if it is the host, but it
   doesn't have to be.
 
 ### Picking the location
@@ -158,7 +160,7 @@ Thoughts:
   new blood?
 * There could also be tools that we'd like people to develop/start
   using, so pulling in those people is good.
-* Also Perl 6: ensuring the right perl 6 toolchain people are here
+* Also Raku: ensuring the right Raku toolchain people are here
 * This task is never-ending, right up to the event.
 * Reality: there may be people you don't want there. "if he
   comes, I won't"
@@ -200,6 +202,9 @@ Thoughts:
   * Berlin 2015: April 16th through 19th
   * Rugby 2016: April 21st through 24th
   * Lyon 2017: May 11th through 14th
+  * Oslo 2018: April 19th through 22nd
+  * Marlow 2019: April 25th through 28th
+  * Lyon 2023: April 27th through 30th
 * Once the core team are picked, find out which weekends in the above
   range they definitely can't do
 * Pick the weekend or weekends that maximise core attendance. For the
@@ -208,6 +213,8 @@ Thoughts:
   Check whether venue costs change significantly in certain weeks (only
   an issue if there's a massive price hike during a school holiday,
   which does happen in Europe).
+* Avoid week-end close to some bank holiday, for instance May 1st in
+  France: a lot of things are closed, and it is a demonstration day.
 * I think everyone's happy with the 4-day weekend. Longer would be
   hard to justify (to employers & families). I think we can consider
   this fixed.
@@ -221,6 +228,7 @@ Thoughts:
   chooses to sponsor each year
 * Need to keep working on adding fresh sponsor potential every year
 * Sponsors (seem to) like the branded blog post.
+* Sponsors (seem to) like invoices.
 * Get people to bring t-shirts with their employer's logo on, to get it
   in pictures for tweets. Sponsors like tweets thanking them, and like
   to get their names / logos in photos as well. These are so cheap, so
@@ -271,22 +279,28 @@ Thoughts:
 
 ## The money role
 
-Have asked Laurent to dump his thoughts here. In the meantime, my
-perception of it
-
+* "Keep track" is the keyword
 * When a sponsor commits to supporting the summit, the sponsorship
   organiser passes a contact to the money person.
-* Money person contacts them to see if they need an invoice raising, and
-  if so anything special they require.
-* Tell them the ways we can receive funds, and ask what their
-  preference is.
+* Money person contacts them to:
+  * ask if they want an invoice, and their info for the invoice
+    (contact, address, currency)
+  * Tell them the ways we can receive funds, and ask what their
+    preference is.
+  * Ask them what logo and text we can add to the sponsor page
 * Organise the funds transfer.
 * Keep track of all sponsors, e.g., in Google docs, with a status
-  against each one.
+  against each one (at least committed/invoiced/paid/denied).
 * Periodically tickle sponsors who haven't yet paid.
 * Once they've paid, confirm back to them and thank them.
+* When the venue and hotel are choosen, ask for an quotation, 
+  if a deposit is required, how to proceed with payment.
 * Update budget spreadsheet (in google docs)
+* Reimburse organizers if they paid for food, venue...
+  Ask them to keep invoices, tickets... (depending on the
+  regulation of the supporting organization)
 * Reimburse attendees
+  Keep track of who must be reimbursed for travel / hotel / both / none
 
 ## Schedule
 
@@ -322,3 +336,4 @@ perception of it
 * Have a single travel agent organising flights, to get a
   discount? [Leo]
 * emailing list
+
