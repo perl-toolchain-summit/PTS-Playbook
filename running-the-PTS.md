@@ -205,6 +205,8 @@ Thoughts:
   * Oslo 2018: April 19th through 22nd
   * Marlow 2019: April 25th through 28th
   * Lyon 2023: April 27th through 30th
+  * Lisbon 2024: April 25th through April 28th
+  * Leipzig 2025: May 1st through May 4th
 * Once the core team are picked, find out which weekends in the above
   range they definitely can't do
 * Pick the weekend or weekends that maximise core attendance. For the
